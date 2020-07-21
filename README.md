@@ -1,4 +1,5 @@
 # Python-Projects Done @ JetBrains Academy
 
 ==>> Zoo keeper
-==>>Coffee Machine
+==>> Coffee Machine
+==>> Simple Chat Bot
